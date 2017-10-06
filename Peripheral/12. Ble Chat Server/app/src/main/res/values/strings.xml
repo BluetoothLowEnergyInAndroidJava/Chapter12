@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BleEchoServer</string>
+    <string name="advertising_name_label">Advertising Name: </string>
+    <string name="bluetooth_on">Bluetooth On</string>
+    <string name="central_connected">Echo Client Connected</string>
+    <string name="characteristic_log">Charactersitic Log:</string>
+</resources>
